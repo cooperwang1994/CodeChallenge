@@ -25,4 +25,5 @@ After users login using google, they can insert data and delete data(for data be
 For data analysis content there is no content, but if I have more spare time in the future, I want to implement some interesting functions.
 
 For data view, I just implement partial of data object, for the other part of data, the mechanism is same.
-And for data insertion. There are only several fields, but I make sure the format is consistent with the json file you gave me
+
+And for data insertion, there are only several fields, but I make sure the format is consistent with the json file you gave me
